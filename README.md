@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwin-maurya&label=Profile%20views&color=0e75b6&style=flat" alt="ashwin-maurya" /> </p>
 
-<p align="left"> <a href="https://twitter.com/480_60" target="blank"><img src="https://img.shields.io/twitter/follow/480_60?logo=twitter&style=for-the-badge" alt="480_60" /></a> </p>
-
 - 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **React, wordpress, css**
@@ -15,7 +13,7 @@
 <p align="left">
 <a href="https://codepen.io/ashwin_maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ashwin_maurya" height="30" width="40" /></a>
 <a href="https://dev.to/ashwinmaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ashwinmaurya" height="30" width="40" /></a>
-<a href="https://twitter.com/480_60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="480_60" height="30" width="40" /></a>
+<a href="https://twitter.com/ashwin__maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashwin__maurya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashwin-maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwin-maurya" height="30" width="40" /></a>
 <a href="https://fb.com/ashwin.maurya.5030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashwin.maurya.5030" height="30" width="40" /></a>
 </p>
