@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwin-maurya&label=Profile%20views&color=0e75b6&style=flat" alt="ashwin-maurya" /> </p>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 Learning Cloud and AI in HealthCare
 
 - 💬 Ask me about **React, NodeJs, NextJs, Typescript**
 
