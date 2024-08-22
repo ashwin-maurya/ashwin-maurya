@@ -1,4 +1,4 @@
-# Hey there, I'm ashwin,
+# hey there, i'm Ashwin,
 A Full stack web developer from India.<br>
 
 
