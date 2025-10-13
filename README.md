@@ -1,7 +1,8 @@
 # Hey there, I'm Ashwin
-- A developer from India<br>
-- I have worked with startups from more than past 2 years in various developer roles and responsibilities<br>
-- My core strength lies in building strong frontend development 
+- I'm a developer with over 2 years of experience in Startups
+- I've worked with several startups in different development roles.
+- I enjoy building clean, responsive, and user-friendly interfaces.
+- I’ve worked extensively with React, NextJs, and TypeScript.
 
 ### You can reach out to me on:
 ashwinmaurya30@gmail.com
