@@ -1,6 +1,7 @@
 # Hey there, I'm Ashwin
-- I'm a developer with over 2 years of experience in Startups
-- I've worked with several startups in different development roles.
+- I'm a developer
+- Have worked for over 2 years with Startups
+- I've worked in several different development roles and responsibilities.
 - I enjoy building clean, responsive, and user-friendly interfaces.
 - I’ve worked extensively with React, NextJs, and TypeScript.
 
