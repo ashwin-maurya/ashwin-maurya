@@ -7,10 +7,9 @@ My core strength lies in building strong frontend development
 ashwinmaurya30@gmail.com
 
 
-## Say hello to me here
+### Say hello to me here
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwin-maurya) 
 
-## Some of my basic CSS and HTML projects and how I feel in love with development
+#### Some of my basic CSS projects and how I feel in love with development
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ashwin-maurya) 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
