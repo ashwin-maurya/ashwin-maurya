@@ -1,7 +1,7 @@
 # Hey there, I'm Ashwin
-A developer from India<br>
-I have been working with startups form past 2 years in various developer roles and responsibilities<br>
-My core strength lies in building strong frontend development 
+- A developer from India<br>
+- I have worked with startups from more than past 2 years in various developer roles and responsibilities<br>
+- My core strength lies in building strong frontend development 
 
 ## You can reach out to me on:
 ashwinmaurya30@gmail.com
