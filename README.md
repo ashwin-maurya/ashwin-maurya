@@ -1,5 +1,7 @@
-# hey there, i'm ashwin
-a developer from india<br>
+# Hey there, I'm Ashwin
+A developer from India<br>
+I have been working with startups form past 2 years in various developer roles and responsibilities<br>
+My core strength lies in building strong frontend development 
 
 
 ## get in touch
