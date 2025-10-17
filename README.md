@@ -9,7 +9,7 @@
 ashwinmaurya30@gmail.com
 
 
-### Say hello to me here
+### Say hello to me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwin-maurya) 
 
 #### Some of my projects when I started exploring coding
