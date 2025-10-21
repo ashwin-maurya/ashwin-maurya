@@ -11,6 +11,6 @@ ashwinmaurya30@gmail.com
 ### Say hello to me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwin-maurya) 
 
-#### Some of my fun projects when I started exploring coding
+#### Some fun projects from when I started coding
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ashwin-maurya) 
 
