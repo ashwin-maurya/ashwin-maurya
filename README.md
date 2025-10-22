@@ -1,4 +1,4 @@
-# Hey there, I'm Ashwin!
+# Hi, I'm Ashwin
 - I'm a developer, in my final year degree.
 - Have been working with startups for over 2 years.
 - I’ve worked extensively with TypeScript, React, NextJs and few other JS frameworks.
