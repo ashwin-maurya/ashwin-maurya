@@ -2,7 +2,7 @@
 - I'm a developer, in my final year degree.
 - Have been working with startups for over 2 years.
 - I’ve worked extensively with TypeScript, React, NextJs and few other JS frameworks.
-- I enjoy building clean, responsive, and user-friendly interfaces.
+- I enjoy building clean, responsive UI.
 
 ### You can reach out to me on:
 ashwinmaurya30@gmail.com
