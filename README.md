@@ -14,4 +14,3 @@ ashwinmaurya30@gmail.com
 #### Some fun projects from when I started coding
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ashwin-maurya) 
 
-![Ashwin’s GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashwinmaurya&bg_color=ffffff00&color=9ca3af&line=9ca3af&point=6b7280&area=true&hide_border=true)
