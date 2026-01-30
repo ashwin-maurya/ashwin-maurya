@@ -1,5 +1,5 @@
 # Hi, I'm Ashwin
-I'm a developer. I have been working with startups for over 2 years. ’ve worked extensively with TypeScript, React, NextJs and few other JS frameworks. Love building clean, responsive UI.
+I'm a developer. I have been working with startups for almost 3 years now. I’ve worked extensively with TypeScript, React, NextJs and few other JS frameworks. Love building clean, responsive UI.
 
 ### You can reach out to me on:
 ashwinmaurya30@gmail.com
